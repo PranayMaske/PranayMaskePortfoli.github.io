@@ -241,7 +241,7 @@
   
                         </div>
    
-                </section>
+               
              
                 <!-- CONTACT -->
                 <section id="contact">
